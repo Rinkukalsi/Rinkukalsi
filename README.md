@@ -5,5 +5,4 @@
     --I’m open to collaborate on projects in Data Analytics and Machine Learning.👯 
    
     -- I am best via rinkukalsi.t@gmail.com , I'm always open to interesting conversations and collaboration.
- 
 
