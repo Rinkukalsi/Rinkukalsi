@@ -6,7 +6,7 @@
 
 - 🔭 Experimenting and working on Machine Learning projects! On a streak of learning new concepts each day, 
     if not that you can find me having a run around the park.
-- 🌱 I’m currently learning more about finance!
+- 🌱 I’m currently learning more about finance and Business!
 - 👯 I’m open to collaborate on projects in machine learning/analytics/data sciecne area.
 - 📫 I am best reached via rinkukalsi.t@gmail.com
 - 💬 I'm always open for some interesting conversations and a nice croissant!
