@@ -14,6 +14,7 @@
 
 ## Languages and Tools
 
+
 <p align="left"> 
   <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank"> 
@@ -31,10 +32,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> 
   </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> 
   </a> 
 
   <!-- Databases -->
@@ -53,7 +54,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/> 
   </a> 
   <a href="https://spark.apache.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache-spark/apache-spark-original.svg" alt="apache-spark" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="apache-spark" width="40" height="40"/> 
   </a> 
 
   <!-- Machine Learning -->
@@ -78,6 +79,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="google-cloud" width="40" height="40"/> 
   </a> 
 </p>
+
 
 ## Connect with Me
 
