@@ -1,16 +1,5 @@
 ### Hi I'm Rinku! 👋
 
-    --Experimenting and working on Machine Learning projects! On a streak of learning new concepts each day, 
-    if not that you can find me having a run around the park.
-   
-    --I’m open to collaborate on projects in Data Analytics and Machine Learning.👯 
-   
-    -- I am best reached via rinkukalsi.t@gmail.com , I'm always open for some interesting conversations and collaboration.
-
-
-
-# Hi there, I'm [Your Name] 👋
-
 ## About Me
 
 
@@ -49,27 +38,12 @@
   </a> 
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your Username]&show_icons=true&theme=radical" alt="[Your Username]'s GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your Username]&theme=radical" alt="[Your Username]'s GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your Username]&layout=compact&theme=radical" alt="[Your Username]'s Top Languages" />
-</p>
 
 ## Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/[Your LinkedIn Username]" target="blank">
+  <a href="https://linkedin.com/in/rinkukalsi/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/[Your Twitter Username]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="40" />
-  </a>
+  
 </p>
