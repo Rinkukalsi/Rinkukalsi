@@ -29,7 +29,7 @@
 
   <!-- Data Analysis and Visualization -->
   <a href="https://www.tableau.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> 
+    <img src="https://camo.githubusercontent.com/b02eca6d76c131e6b6316807fb7d1b1bee359853b88ec8d18cba7a68cbec9d0c/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" alt="tableau" width="40" height="40"/> 
   </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
