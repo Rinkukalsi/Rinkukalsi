@@ -12,7 +12,7 @@
 - 💬 I'm always open for some interesting conversations and a nice croissant!
 
 
-## Languages and Tools
+## Tools and Tech
 
 
 <p align="left"> 
